@@ -6,7 +6,7 @@ Description:
      It gives the information on date, time, match and venue for a match.
 
 To run:
-     To run this program (from here) do:
+     To run this program (from T20Schedule root folder) do:
 
      1. cd T20Schedule/spiders
      2. scrapy crawl T20Spider
